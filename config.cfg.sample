@@ -1,0 +1,5 @@
+[keys_and_token]
+api_key = api_key_sample
+api_secret = api_secret_sample
+oauth_token = oauth_token_sample
+oauth_token_secret = oauth_token_secret_sample
