@@ -5,12 +5,12 @@ A small script that takes a folder as an input and twitts a random image in that
 
 Twitter image bot that posts in my case Shidare Hotaru pictures and gifs (optionally - could be videos, too).
 
-![Shidare Hotaru](https://pbs.twimg.com/media/CaiN2-PUAAAsoex.jpg)
+<img src="https://pbs.twimg.com/media/CaiN2-PUAAAsoex.jpg" alt="Shidare Hotaru" width="200">
 
 #Links
 
 * [original bot(see early commits) by joaquinlpereyra](https://github.com/joaquinlpereyra/twitterImgBot)
-* [my fork for @6aka6aka_bot](https://github.com/johnnykernel/twitterImgBot)
+* [~~my fork for @6aka6aka_bot~~](https://github.com/johnnykernel/twitterImgBot)
 * [ShidareHotaruBot itself](https://twitter.com/ShidareBot)
 * [my personal twitter](https://twitter.com/6aka6aka)
 
